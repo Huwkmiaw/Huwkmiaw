@@ -74,24 +74,6 @@ A web-based application developed as my final project.
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🎯 2026 Goals
-
-- ✅ Graduate from Diploma
-- 🔄 Build more portfolio projects
-- 🔄 Learn modern web technologies
-- 🎯 Start my career in IT
-- 🚀 Keep improving every day
-
 ---
 
 ## 🤝 Let's Connect
@@ -117,7 +99,5 @@ A web-based application developed as my final project.
 <div align="center">
 
 *"The best way to learn is by building."* ✨
-
-![](https://komarev.com/ghpvc/?username=USERNAME&color=4F8EF7&style=flat-square)
 
 </div>
