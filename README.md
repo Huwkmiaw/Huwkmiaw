@@ -1,16 +1,123 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Huwkmiaw/Huwkmiaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Sahal 👋
 
-Here are some ideas to get you started:
+### 🎓 Informatics Engineering Graduate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate about Web Development
+
+🌱 Learning something new every day
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1200&color=4F8EF7&center=true&vCenter=true&width=600&lines=Building+web+applications...;Always+learning+new+things.;Fresh+Graduate+who+loves+coding." />
+
+</div>
+
+---
+
+## 🌸 About Me
+
+- 🎓 Diploma in Informatics Engineering
+- 💻 Interested in Web Development
+- 🌱 Currently improving my skills in Laravel, PHP, JavaScript, and MySQL
+- 🚀 Enjoy building useful and user-friendly web applications
+- 📚 Always learning through personal projects and real-world experience
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,git,github,vscode,bootstrap,figma"/>
+
+</p>
+
+---
+
+## 🚀 Featured Project
+
+### 🚗 Car Rental Information System
+
+A web-based application developed as my final project.
+
+✨ Features:
+
+- Vehicle Management
+- Reservation System
+- GPS Tracking
+- Payment Integration
+- Responsive Dashboard
+
+---
+
+## 🌱 Currently Learning
+
+```text
+📖 Laravel Best Practices
+📖 REST API
+📖 Clean Code
+📖 Git Workflow
+📖 UI/UX Design
+```
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+- ✅ Graduate from Diploma
+- 🔄 Build more portfolio projects
+- 🔄 Learn modern web technologies
+- 🎯 Start my career in IT
+- 🚀 Keep improving every day
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/muhamad-sahal-ansar-9b0514294/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://huwkmiaw.github.io/Porto/scroll.html">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser"/>
+</a>
+
+<a href="sahalanshar65@gamil.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+*"The best way to learn is by building."* ✨
+
+![](https://komarev.com/ghpvc/?username=USERNAME&color=4F8EF7&style=flat-square)
+
+</div>
