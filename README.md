@@ -34,20 +34,6 @@
 
 ---
 
-## 🚀 Featured Project
-
-### 🚗 Car Rental Information System
-
-A web-based application developed as my final project.
-
-✨ Features:
-
-- Vehicle Management
-- Reservation System
-- GPS Tracking
-- Payment Integration
-- Responsive Dashboard
-
 ---
 
 ## 🌱 Currently Learning
